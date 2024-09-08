@@ -17,11 +17,7 @@ I am a passionate Full-Stack Developer with over 4 years of experience in buildi
 - Three.js
 - Solidity
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oladejiraji&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladejiraji&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
